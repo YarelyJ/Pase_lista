@@ -1,0 +1,3 @@
+# Evitar subir node_modules y logs
+node_modules/
+npm-debug.log*
